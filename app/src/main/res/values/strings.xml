@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Crud Pai</string>
+
+    <!--FragmentCliente-->
+    <string name="cliente_razao_social_hint">Razão Social</string>
+    <string name="cliente_email_hint">E-mail</string>
+    <string name="salvar_button">Salvar</string>
+    <string name="cliente_titulo">Cliente</string>
 </resources>
