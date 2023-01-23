@@ -6,4 +6,6 @@
     <string name="cliente_email_hint">E-mail</string>
     <string name="salvar_button">Salvar</string>
     <string name="cliente_titulo">Cliente</string>
+    <string name="cliente_inserted_successfully">Cliente foi inserido com sucesso</string>
+    <string name="cliente_error_to_insert">Ocorreu um erro ao inserir o Cliente</string>
 </resources>

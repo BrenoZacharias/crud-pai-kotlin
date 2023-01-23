@@ -3,6 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 apply plugin: 'kotlin-kapt'
+apply plugin: 'kotlin-android-extensions'
 
 android {
     namespace 'br.com.crudpai'
@@ -32,6 +33,7 @@ android {
         jvmTarget = '1.8'
     }
 }
+
 
 dependencies {
 
